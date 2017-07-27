@@ -1,0 +1,1 @@
+ahk2exe.exe /in katahk.ahk
